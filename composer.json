@@ -1,0 +1,23 @@
+{
+  "name": "vars_dump",
+  "description": "Colored var_dump for CLI",
+  "type": "library",
+  "version": "1.0.0",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alexander Mayorov",
+      "email": "major@new.hr"
+    }
+  ],
+  "require": {
+    "php": ">=8.0"
+  },
+  "autoload": {
+    "files": [
+      "vars_dump.php"
+    ]
+  }
+}
