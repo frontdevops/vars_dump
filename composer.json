@@ -1,5 +1,5 @@
 {
-  "name": "vars_dump",
+  "name": "frontdevops/vars_dump",
   "description": "Colored var_dump for CLI",
   "type": "library",
   "version": "1.0.0",
